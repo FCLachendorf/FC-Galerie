@@ -6,16 +6,46 @@
     "image": "aaron-kahrs.png"
   },
   {
+    "name": "Chris Jess",
+    "number": "32",
+    "keywords": ["Chris", "Jess", "32", "Chris Jess"],
+    "image": "chris-jess.png"
+  },
+  {
     "name": "Christoph Meldau",
     "number": "44",
     "keywords": ["Christoph", "Meldau", "44", "Christoph Meldau"],
     "image": "christoph-meldau.png"
   },
   {
+    "name": "Christopher Bartsch",
+    "number": "10",
+    "keywords": ["Christopher", "Bartsch", "10", "Christopher Bartsch"],
+    "image": "christopher-bartsch.png"
+  },
+  {
+    "name": "Florian Schlote",
+    "number": "99",
+    "keywords": ["Florian", "Schlote", "99", "Florian Schlote"],
+    "image": "florian-schlote.png"
+  },
+  {
+    "name": "Ion Pupaza",
+    "number": "11",
+    "keywords": ["Ion", "Pupaza", "4", "Ion Pupaza"],
+    "image": "ion-pupaza.png"
+  },
+  {
     "name": "Jamie Ebeling",
     "number": "11",
     "keywords": ["Jamie", "Ebeling", "11", "Jamie Ebeling"],
     "image": "jamie-ebeling.png"
+  },
+  {
+    "name": "Jonah Köhrmann",
+    "number": "5",
+    "keywords": ["Jonah", "Köhrmann", "5", "Jonah Köhrmann"],
+    "image": "jonah-köhrmann.png"
   },
   {
     "name": "Lauro Sander",
@@ -36,6 +66,24 @@
     "image": "malte-heidmann.png"
   },
   {
+    "name": "Marcel Flesch",
+    "number": "",
+    "keywords": ["Marcel", "Flesch", "", "Marcel Flesch"],
+    "image": "marcel-flesch.png"
+  },
+  {
+    "name": "Markus Lehmann",
+    "number": "1",
+    "keywords": ["Markus", "Lehmann", "1", "Markus Lehmann"],
+    "image": "markus-lehmann.png"
+  },
+  {
+    "name": "Martin Michaelis",
+    "number": "",
+    "keywords": ["Martin", "Michaelis", "", "Martin Michaelis"],
+    "image": "martin-michaelis.png"
+  },
+  {
     "name": "Marvin Jess",
     "number": "30",
     "keywords": ["Marvin", "Jess", "30", "Marvin Jess"],
@@ -54,6 +102,36 @@
     "image": "milan-muhi.png"
   },
   {
+    "name": "Patrick Linke",
+    "number": "12",
+    "keywords": ["Patrick", "Linke", "12", "Patrick Linke"],
+    "image": "patrick-linke.png"
+  },
+  {
+    "name": "Phillip Maricic",
+    "number": "10",
+    "keywords": ["Phillip", "Maricic", "10", "Phillip Maricic"],
+    "image": "phillip-maricic.png"
+  },
+  {
+    "name": "Pierre Weber",
+    "number": "33",
+    "keywords": ["Pierre", "Weber", "33", "Pierre Weber"],
+    "image": "pierre-weber.png"
+  },
+  {
+    "name": "Rico Kuhröber",
+    "number": "",
+    "keywords": ["Rico", "Kuhröber", "", "Rico Kuhröber"],
+    "image": "rico-kuhröber.png"
+  },
+  {
+    "name": "Samuel Waldau",
+    "number": "9",
+    "keywords": ["Samuel", "Waldau", "9", "Samuel Waldau"],
+    "image": "samuel-waldau.png"
+  },
+  {
     "name": "Simon Maricic",
     "number": "42",
     "keywords": ["Simon", "Maricic", "42", "Simon Maricic"],
@@ -70,6 +148,12 @@
     "number": "16",
     "keywords": ["Tobias", "Claussen", "16", "Tobias Claussen"],
     "image": "tobias-claussen.png"
+  },
+  {
+    "name": "Tommy Stricker",
+    "number": "14",
+    "keywords": ["Tommy", "Stricker", "14", "Tommy Stricker"],
+    "image": "tommy-stricker.png"
   },
   {
     "name": "Yannick Niemietz",
