@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Aaron Kahrs",
+    "number": "3",
+    "keywords": ["Aaron", "Kahrs", "3", "Aaron Kahrs"],
+    "image": "aaron-kahrs.png"
+  },
+  {
+    "name": "Christoph Meldau",
+    "number": "44",
+    "keywords": ["Christoph", "Meldau", "44", "Christoph Meldau"],
+    "image": "christoph-meldau.png"
+  },
+  {
+    "name": "Lauro Sander",
+    "number": "39",
+    "keywords": ["Lauro", "Sander", "39", "Lauro Sander"],
+    "image": "lauro-sander.png"
+  },
+  {
+    "name": "Lewin Lindner",
+    "number": "15",
+    "keywords": ["Lewin", "Lindner", "15", "Lewin Lindner"],
+    "image": "lewin-lindner.png"
+  },
+  {
+    "name": "Malte Heidmann",
+    "number": "2",
+    "keywords": ["Malte", "Heidmann", "2", "Malte Heidmann"],
+    "image": "malte-heidmann.png"
+  },
+  {
+    "name": "Marvin Jess",
+    "number": "30",
+    "keywords": ["Marvin", "Jess", "30", "Marvin Jess"],
+    "image": "marvin-jess.png"
+  },
+  {
+    "name": "Maurice Otto",
+    "number": "19",
+    "keywords": ["Maurice", "Otto", "19", "Maurice Otto"],
+    "image": "maurice-otto.png"
+  },
+  {
+    "name": "Milan Muhi",
+    "number": "8",
+    "keywords": ["Milan", "Muhi", "8", "Milan Muhi"],
+    "image": "milan-muhi.png"
+  },
+  {
+    "name": "Simon Maricic",
+    "number": "42",
+    "keywords": ["Simon", "Maricic", "42", "Simon Maricic"],
+    "image": "simon-maricic.png"
+  },
+  {
+    "name": "Timo Bartsch",
+    "number": "77",
+    "keywords": ["Timo", "Bartsch", "77", "Timo Bartsch"],
+    "image": "timo-bartsch.png"
+  },
+  {
+    "name": "Tobias Claussen",
+    "number": "16",
+    "keywords": ["Tobias", "Claussen", "16", "Tobias Claussen"],
+    "image": "tobias-claussen.png"
+  },
+  {
+    "name": "Yannick Niemietz",
+    "number": "13",
+    "keywords": ["Yannick", "Niemietz", "13", "Yannick Niemietz"],
+    "image": "yannick-niemietz.png"
+  }
+]
