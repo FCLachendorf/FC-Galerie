@@ -123,13 +123,11 @@ h1 {
   position: absolute;
   bottom: 0px;
   right: 10px;
-  background-color: rgba(238, 238, 238, 0.05);
   color: #EEEEEE;
   font-size: 1rem;
   text-decoration: none;
   padding: 0px 0px;
   border-radius: 6px;
-  backdrop-filter: blur(10px);
   transition: background 0.3s ease;
 }
 
