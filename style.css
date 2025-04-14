@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #1D1616;
+  background-color: rgba(36, 36, 36, 0.7);
   scroll-behavior: smooth;
 }
 
@@ -160,7 +160,7 @@ h1 {
 
 .player-number {
   text-align: right;
-  color: #999999; /* oder gleiche Farbe wie Text, wie du willst */
+  color: #999999;
 }
 
 .footer {
@@ -180,13 +180,13 @@ h1 {
 }
 
 .footer-link {
-  color: #888888; /* gleiche Farbe wie dein Fließtext */
-  text-decoration: none; /* unterstreichen entfernen */
+  color: #888888; 
+  text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .footer-link:hover,
 .footer-link:focus {
-  color: white; /* wird heller beim Hover oder Fokussieren */
-  text-decoration: underline; /* optional */
+  color: white;
+  text-decoration: underline;
 }
