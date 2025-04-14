@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: rgba(36, 36, 36, 0.7);
+  background-color: #861B18;
   scroll-behavior: smooth;
 }
 
@@ -121,7 +121,7 @@ h1 {
 
 .download-btn {
   position: absolute;
-  bottom: 5px;
+  bottom: 2px;
   right: 8px;
   background: none;
   backdrop-filter: none;
