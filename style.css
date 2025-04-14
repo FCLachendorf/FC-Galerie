@@ -120,7 +120,7 @@ h1 {
   color: #EEEEEE;
   font-size: 1rem;
   text-decoration: none;
-  padding: 1px 3px;
+  padding: 0px 3px;
   border-radius: 6px;
   backdrop-filter: blur(10px);
   transition: background 0.3s ease;
