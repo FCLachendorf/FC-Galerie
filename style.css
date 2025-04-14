@@ -125,6 +125,7 @@ h1 {
   right: 8px;
   background: none;
   backdrop-filter: none;
+  color: #212121;
   border: none;
   padding: 4px;
   transition: transform 0.2s ease;
