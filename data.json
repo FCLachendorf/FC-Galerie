@@ -36,6 +36,12 @@
     "image": "florian-schlote.png"
   },
   {
+    "name": "Hüssein Barakat",
+    "number": "",
+    "keywords": ["Hüssein", "Barakat", "", "Hüssein Barakat"],
+    "image": "hüssein-barakat.png"
+  },
+  {
     "name": "Ion Pupaza",
     "number": "4",
     "keywords": ["Ion", "Pupaza", "4", "Ion Pupaza"],
@@ -142,6 +148,12 @@
     "number": "",
     "keywords": ["Rico", "Kuhröber", "", "Rico Kuhröber"],
     "image": "rico-kuhrober.png"
+  },
+  {
+    "name": "Saman Haskan",
+    "number": "19",
+    "keywords": ["Saman", "Haskan", "19", "Saman Haskan"],
+    "image": "saman-haskan.png"
   },
   {
     "name": "Samuel Waldau",
